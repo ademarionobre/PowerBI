@@ -5,3 +5,7 @@ A primeira coisa que a Morgana e a Milena disseram para nós é que:
 
 Seria bem importante visualizar esse número porque elas iam direcionar algumas campanhas de marketing para tentar trazer de volta os clientes que não estão com a assinatura mais ativa.
 
+- Qual é a profissão que mais compra dentro do e-commerce para?
+Afim de , direcionar os livros justamente de interesse para essas carreiras.
+
+- Querem saber o número de pessoas desempregadas da base de dados

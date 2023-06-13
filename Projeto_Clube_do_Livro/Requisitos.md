@@ -1,4 +1,4 @@
-Estudo de caso Clube do Livro - Projeto e-commerce
+## Estudo de caso Clube do Livro - Projeto e-commerce
 
 Resquisitos para montar dashboard e-commerce vendas e assinaturas de livros.
 

@@ -12,3 +12,5 @@ Afim de , direcionar os livros justamente de interesse para essas carreiras.
 
 Métrica vendas do Clube do Livro. Definidas algumas metas de vendas semanais.
 - Usar visual tipo indicador (velocímetro).
+
+Agora a Milena e a Morgana querem visualizar algumas informações como uma **tabela** para facilitar um pouco a consulta. Elas querem informações bem específicas. iremos usar um visual de tabela.

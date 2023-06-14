@@ -9,3 +9,6 @@ Seria bem importante visualizar esse número porque elas iam direcionar algumas 
 Afim de , direcionar os livros justamente de interesse para essas carreiras.
 
 - Querem saber o número de pessoas desempregadas da base de dados
+
+Métrica vendas do Clube do Livro. Definidas algumas metas de vendas semanais.
+- Usar visual tipo indicador (velocímetro).

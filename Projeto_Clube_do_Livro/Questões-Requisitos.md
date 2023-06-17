@@ -16,5 +16,9 @@ Métrica vendas do Clube do Livro. Definidas algumas metas de vendas semanais.
 Agora a Milena e a Morgana querem visualizar algumas informações como uma **tabela** para facilitar um pouco a consulta. Elas querem informações bem específicas. iremos usar um visual de tabela.
 
 Elas querem saber como o e-commerce está indo em função do tempo, qual é a evolução ou involução em função do tempo.
-Querem também visualizar essas métricas como, por exemplo, vendas em relação às semanas.
-Fazer previsão do que tende a acontecer.
+Querem também visualizar essas métricas como, por exemplo, vendas em relação às semanas. Fazer previsão do que tende a acontecer.
+
+O e-commerce quer comparar algumas categorias. Ele quer saber, na base de livros, quais são os livros que ele tem maior quantidade, divididos por assunto.
+- Visual gráficos de barras.
+
+Solicitaram visualizar a questão das entregas por cidade, mas de forma visual, através de um mapa

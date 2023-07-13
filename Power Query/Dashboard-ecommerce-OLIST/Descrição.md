@@ -47,3 +47,9 @@ Esses procedimentos acima reduz tempo de aplica;áo no carregamento dos dados e 
 ## Relacionamento das tabelas  
 ![image](https://github.com/ademarionobre/PowerBI/assets/92057489/6ff9d70b-b2e9-41ee-8c54-e3a4e9b8af27)
 
+Relatório Olist - Dashboard  
+https://app.powerbi.com/view?r=eyJrIjoiYWU4NjA5MGEtMTQzYi00NzYxLWI3OTgtNGE4NTZiMjhmMDUxIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSectiond77ede43180222702c17  
+![image](https://github.com/ademarionobre/PowerBI/assets/92057489/abecc2bf-6ce5-4197-8e01-ce2d438d51ad)  
+![image](https://github.com/ademarionobre/PowerBI/assets/92057489/e82ce854-7268-4c2f-b007-d084d9faadfc)
+
+

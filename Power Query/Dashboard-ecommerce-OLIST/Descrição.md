@@ -44,3 +44,6 @@ Finalmente acessar o editor e renomear as etapas para manter o vínculo e aplica
 Esses procedimentos acima reduz tempo de aplica;áo no carregamento dos dados e facilita entendiemento de etapas.
 
 # Desenvolvendo o Dashboard e publicando na web
+## Relacionamento das tabelas  
+![image](https://github.com/ademarionobre/PowerBI/assets/92057489/6ff9d70b-b2e9-41ee-8c54-e3a4e9b8af27)
+

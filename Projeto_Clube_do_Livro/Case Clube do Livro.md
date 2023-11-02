@@ -1,4 +1,4 @@
-## Estudo de caso Clube do Livro - Projeto e-commerce
+# Estudo de caso Clube do Livro - Projeto e-commerce
 
 Resquisitos para montar dashboard e-commerce vendas e assinaturas de livros.
 
@@ -8,6 +8,28 @@ E não só que façamos análises dessas métricas, mas também deixemos de form
 
 Elas sentaram conosco e explicaram o que elas precisavam visualizar, e nós pedimos para elas uma base de dados para que consigamos fazer essas análises.  
 Elas passaram uma base de dados dentro do _Google Planilhas_, o e-commerce adota esse software de planilhas.
+_______
+## Requisitos do cliente
+- Querem visualizar quantas pessoas na nossa base de clientes não estão com as assinaturas ativas, tanto em números absolutos quanto em porcentagem também.
+  - Seria bem importante visualizar esse número porque elas iam direcionar algumas campanhas de marketing para tentar trazer de volta os clientes que não estão com a assinatura mais ativa.
+
+- Qual é a profissão que mais compra dentro do e-commerce para?
+  - Afim de , direcionar os livros justamente de interesse para essas carreiras.
+
+- Querem saber o número de pessoas desempregadas da base de dados
+
+- Métrica vendas do Clube do Livro. Definidas algumas metas de vendas semanais.
+  - Usar visual tipo indicador (velocímetro).
+
+- Querem visualizar algumas informações como uma **tabela** para facilitar um pouco a consulta. Elas querem informações bem específicas. Iremos usar um visual de tabela.
+
+- Elas querem saber como o e-commerce está indo em função do tempo, qual é a evolução ou involução em função do tempo.
+- Querem também visualizar essas métricas como, por exemplo, vendas em relação às semanas. Fazer previsão do que tende a acontecer.
+
+- O e-commerce quer comparar algumas categorias. Ele quer saber, na base de livros, quais são os livros que ele tem maior quantidade, divididos por assunto.
+  - Visual gráficos de barras.
+
+- Solicitaram visualizar a questão das entregas por cidade, mas de forma visual, através de um mapa.
 ________
 **Considerações**  
 A base é uma **planilha com cinco abas** e cada uma dessas abas está comunicando alguns dados. A primeira aba é o catálogo de livros, temos uma série de livros que estão na base de dados deles que eles vendem, dividida pelo **assunto, pelo valor, pelo código** e **pelo autor**. Temos aqui algumas informações.

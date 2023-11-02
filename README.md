@@ -11,7 +11,7 @@
     - 📊[Link Dashboard Pets](https://app.powerbi.com/view?r=eyJrIjoiYzAyODRlMjQtOTVhMi00YjMwLWE1ODQtY2Q5NzU0M2ZiMWRjIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSection329cf4b0514558941a88)
 
  - 📂[Repostiório Dashboard Clube do Livro](https://github.com/ademarionobre/PowerBI/blob/main/Projeto_Clube_do_Livro/Case%20Clube%20do%20Livro.md)
-    - [Link Dashboard CLube do Livro](https://app.powerbi.com/view?r=eyJrIjoiOWE0OGJkYjgtYmRmNy00M2VkLWI4MjctNTNhNzA5ZTI5Mzk3IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)
+    - [Link Dashboard CLube do Livro](https://app.powerbi.com/view?r=eyJrIjoiOWE0OGJkYjgtYmRmNy00M2VkLWI4MjctNTNhNzA5ZTI5Mzk3IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSection00f77ef5923937051eea)
 
 
 

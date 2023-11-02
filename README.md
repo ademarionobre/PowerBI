@@ -2,7 +2,7 @@
 
 ## Repositório contento dashboards de estudos, projetos e cases com datasets, manuais e links.
 - 📂[Repositório Dashboard manutenção](https://github.com/ademarionobre/PowerBI/blob/main/PBI_Manuten%C3%A7%C3%A3o/dashboard%20manutencao.md)
-    - [Link Dashboard Mantenção MTBF | MTTR](https://app.powerbi.com/groups/me/reports/45a6ca0c-2359-4c53-affe-dd383bbf6ee0/ReportSection13dded9667c5f9d07511?bookmarkGuid=Bookmark074615979cabd95ce3bf)
+    - [Link Dashboard Mantenção MTBF | MTTR](https://app.powerbi.com/view?r=eyJrIjoiODNlOWZhMzYtMzg5Ni00MDdhLThkODUtZDMwZTc1ZTM1Y2IzIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)
 
 - 📂[Repositório Dashboard ecommerce-OLIST](https://github.com/ademarionobre/PowerBI/blob/main/Power%20Query/Dashboard-ecommerce-OLIST/Descri%C3%A7%C3%A3o%20e%20projeto.md)
     - 📊[Link Dashboard Olist e-commerce](https://app.powerbi.com/view?r=eyJrIjoiYWU4NjA5MGEtMTQzYi00NzYxLWI3OTgtNGE4NTZiMjhmMDUxIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSectiond77ede43180222702c17)

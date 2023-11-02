@@ -1,6 +1,6 @@
 ## Requisitos do cliente
 
-A primeira coisa que a Morgana e a Milena disseram para nós é que:
+A clinte deseja:
 - Querem visualizar quantas pessoas na nossa base de clientes não estão com as assinaturas ativas, tanto em números absolutos quanto em porcentagem também.
 
 Seria bem importante visualizar esse número porque elas iam direcionar algumas campanhas de marketing para tentar trazer de volta os clientes que não estão com a assinatura mais ativa.
@@ -13,7 +13,7 @@ Afim de , direcionar os livros justamente de interesse para essas carreiras.
 Métrica vendas do Clube do Livro. Definidas algumas metas de vendas semanais.
 - Usar visual tipo indicador (velocímetro).
 
-Agora a Milena e a Morgana querem visualizar algumas informações como uma **tabela** para facilitar um pouco a consulta. Elas querem informações bem específicas. iremos usar um visual de tabela.
+Querem visualizar algumas informações como uma **tabela** para facilitar um pouco a consulta. Elas querem informações bem específicas. Iremos usar um visual de tabela.
 
 Elas querem saber como o e-commerce está indo em função do tempo, qual é a evolução ou involução em função do tempo.
 Querem também visualizar essas métricas como, por exemplo, vendas em relação às semanas. Fazer previsão do que tende a acontecer.
@@ -21,4 +21,4 @@ Querem também visualizar essas métricas como, por exemplo, vendas em relação
 O e-commerce quer comparar algumas categorias. Ele quer saber, na base de livros, quais são os livros que ele tem maior quantidade, divididos por assunto.
 - Visual gráficos de barras.
 
-Solicitaram visualizar a questão das entregas por cidade, mas de forma visual, através de um mapa
+Solicitaram visualizar a questão das entregas por cidade, mas de forma visual, através de um mapa.

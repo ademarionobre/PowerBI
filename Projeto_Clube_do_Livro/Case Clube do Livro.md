@@ -1,6 +1,6 @@
 # Estudo de caso Clube do Livro - Projeto e-commerce
 
-Resquisitos para montar dashboard e-commerce vendas e assinaturas de livros.
+## Resquisitos para montar dashboard e-commerce vendas e assinaturas de livros.
 
 O clube cresceu bastante, agora ele tem duas gerentes comerciais: a Morgana e a Milena. Elas estão nos contratando justamente porque elas precisam analisar algumas métricas muito importantes para conseguirem tomar decisões futuras baseadas nessas métricas.
 
@@ -77,4 +77,6 @@ Repetir o mesmo processo com todas as abas.
 
 Só lembrando que, claro, esses dados que estamos trazendo aqui já estão tratados, nós fizemos alguns tratamentos de importação, mas os dados em si já estão estruturados para fazermos as análises e escolhermos os nossos visuais.
 
-Como a base estava toda tratada, pulou o fluxo de etapas de ETL (Extract Treatment and Load - extrair, tratar e carregar os dados).
+Como a base estava toda tratada, pulou-se o fluxo de etapas iniciais do ETL (Extract Treatment and Load - extrair, tratar e carregar os dados).  
+________
+📊[Link Dashboard CLube do Livro](https://app.powerbi.com/view?r=eyJrIjoiOWE0OGJkYjgtYmRmNy00M2VkLWI4MjctNTNhNzA5ZTI5Mzk3IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)

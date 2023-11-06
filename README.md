@@ -2,6 +2,9 @@
 
 ## Repositório contento dashboards de estudos, projetos e cases com datasets, manuais e links.
 
+- 📂Projeto Dashboard de monitoramento de vendas, faturamento e metas de equipes e produtos.
+    - 📊[Link Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNmM2YzdiZjMtMWNkMS00NGMwLWE4MzYtMTA5NjlhODg4YTE4IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)
+
 - 📂[Repositório Dashboard manutenção](https://github.com/ademarionobre/PowerBI/blob/main/PBI_Manuten%C3%A7%C3%A3o/dashboard%20manutencao.md)
     - 📊[Link Dashboard Mantenção MTBF | MTTR](https://app.powerbi.com/view?r=eyJrIjoiODNlOWZhMzYtMzg5Ni00MDdhLThkODUtZDMwZTc1ZTM1Y2IzIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)
 

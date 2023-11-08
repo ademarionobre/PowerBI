@@ -2,6 +2,9 @@
 
 ## Repositório contento dashboards de estudos, projetos e cases com datasets, manuais e links.
 
+- 📂 Dashboard Marketing Digital - campanhas do e-commerce de comésticos.
+    - 📊[Link Dashboard Marketing Digital](https://app.powerbi.com/view?r=eyJrIjoiZjY0ODljMzItMTljOS00OTEzLTkxM2ItNjZiZTk0NjFhYjkwIiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSection)
+
 - 📂Projeto Dashboard de monitoramento de vendas, faturamento e metas de equipes e produtos.
     - 📊[Link Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNmM2YzdiZjMtMWNkMS00NGMwLWE4MzYtMTA5NjlhODg4YTE4IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9)
 

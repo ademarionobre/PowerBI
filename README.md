@@ -24,7 +24,7 @@
     - 📊[Link Dashboard CLube do Livro](https://app.powerbi.com/view?r=eyJrIjoiOWE0OGJkYjgtYmRmNy00M2VkLWI4MjctNTNhNzA5ZTI5Mzk3IiwidCI6ImNlNjg4Y2ZlLWFjZjAtNDkwYy05ZGVkLThlYTY3MWZkNzA2NyJ9&pageName=ReportSection00f77ef5923937051eea)
 
 - 📂[Repostiório Dashboard Vendas Voitto Supply](https://github.com/ademarionobre/PowerBI/blob/main/Dashboard_Vendas_Supply_Voitto/README.md)
-    - 📊[Link Dashboard CLube do Livro](https://app.powerbi.com/view?r=eyJrIjoiN2U4YTY5ZGQtZDg4OS00OWJjLWJkZjEtOTI5ODExYjY2ZTliIiwidCI6IjU3NGY1YWMwLWQyMTMtNDY5MS04ZThjLWE1NGYwOWExNjAwMyJ9)
+    - 📊[Link Dashboard Análise Vendas Voitto Supply](https://app.powerbi.com/view?r=eyJrIjoiN2U4YTY5ZGQtZDg4OS00OWJjLWJkZjEtOTI5ODExYjY2ZTliIiwidCI6IjU3NGY1YWMwLWQyMTMtNDY5MS04ZThjLWE1NGYwOWExNjAwMyJ9)
 
 # Importância do Business Intelligence (BI)  
 ![image](https://github.com/ademarionobre/PowerBI/assets/92057489/b6ef887a-5108-4084-b522-06f510b0495d)
